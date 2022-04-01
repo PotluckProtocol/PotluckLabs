@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Dead Family",
+        "symbol": "DEAD",
+        "contractAddress": "0x30745c13181b3e21c1439f0faa912b08e73d8547",
+        "coverImage": "/images/DeadFamilyAvax.cover.png",
+        "network": "AVAX",
+        "maxSupply": 254,
+        "mint": {
+            "weiCost": 800000000000000000,
+            "maxPerTx": 10,
+            "mintImage": "/images/DeadFamilyAvax.gif",
+            "gasLimit": 285000
+        }
+    },
+    {
+        "name": "Strange Pigs",
+        "symbol": "SOPP",
+        "contractAddress": "0x72F38b2330cd187c13553dc92a0bE6334005EebA",
+        "coverImage": "/images/StrangePigs.cover.png",
+        "network": "FTM",
+        "maxSupply": 1080,
+        "mint": {
+            "weiCost": 35000000000000000000,
+            "maxPerTx": 10,
+            "mintImage": "/images/StrangePigs.gif",
+            "gasLimit": 285000
+        }
+    },
+    {
+        "name": "COTC2 Serums",
+        "symbol": "COTC2Serum",
+        "contractAddress": "0x82913BB5587e42c7307cdA8bACab396c647ac20d",
+        "coverImage": "/images/COTC2SerumFtm.png",
+        "network": "FTM",
+        "maxSupply": 4000,
+        "hideInProjects": true,
+        "mint": {
+            "gasLimit": 285000,
+            "maxPerTx": 10,
+            "noWhitelist": true,
+            "forceEndedState": true,
+            "mintImage": "/images/COTC2SerumFtm.png",
+            "weiCost": 20000000000000000000
+        },
+        "mutate": {
+            "targetContractAddress": "0xDbD1D1f5E81c39c5b7931A8dFfDB78e260bF288a",
+            "approveGasLimit": 75000,
+            "mutetaGasLimit": 285000
+        }
+    },
+    {
+        "name": "COTC2 Serums",
+        "symbol": "COTC2Serum",
+        "contractAddress": "0xE0DDB7865Fc6f9ceDF95Dd9a8826c7CC965d16E3",
+        "coverImage": "/images/COTC2SerumAvax.png",
+        "network": "AVAX",
+        "maxSupply": 2000,
+        "hideInProjects": true,
+        "mint": {
+            "gasLimit": 285000,
+            "maxPerTx": 10,
+            "noWhitelist": true,
+            "mintImage": "/images/COTC2SerumAvax.png",
+            "weiCost": 500000000000000000
+        },
+        "mutate": {
+            "targetContractAddress": "0x4Cc85D7B4fA064bF609741C822D2D1244c848c9C",
+            "approveGasLimit": 75000,
+            "mutetaGasLimit": 285000
+        }
+    },
+    {
+        "name": "COTC2 Super Serums",
+        "symbol": "COTCSS",
+        "contractAddress": "0x969b2Bda44a8a6Be009Bf264fcF62e079f581b97",
+        "coverImage": "/images/COTCSSAvax.png",
+        "network": "FTM",
+        "maxSupply": 200,
+        "hideInProjects": true,
+        "overrideIpfsGateway": "https://potlucklabs.mypinata.cloud/ipfs/",
+        "mutate": {
+            "targetContractAddress": "0xBbF352cEa87A49aeF9d5A5dDA16de2240814732a",
+            "approveGasLimit": 75000,
+            "mutetaGasLimit": 285000,
+            "serumUnitNotation": "Super Serum"
+        }
+    },
+    {
+        "name": "COTC2 Super Serums",
+        "symbol": "COTCSS",
+        "contractAddress": "0x246CBfEfd5B70D74335F0aD25E660Ba1e2259858",
+        "coverImage": "/images/COTCSSAvax.png",
+        "network": "AVAX",
+        "maxSupply": 100,
+        "hideInProjects": true,
+        "mint": {
+            "gasLimit": 285000,
+            "maxPerTx": 1,
+            "noWhitelist": true,
+            "mintImage": "/images/COTCSSAvax.png",
+            "weiCost": 2000000000000000000
+        },
+        "overrideIpfsGateway": "https://potlucklabs.mypinata.cloud/ipfs/",
+        "mutate": {
+            "targetContractAddress": "0xb22C5f6e91B073ECC321Cfa7C01e1e2b56564ab2",
+            "approveGasLimit": 75000,
+            "mutetaGasLimit": 285000,
+            "serumUnitNotation": "Super Serum"
+        }
+    },
+    {
+        "name": "Creatures of the Cave 2 (AVAX)",
+        "symbol": "COTCTWO",
+        "contractAddress": "0x4Cc85D7B4fA064bF609741C822D2D1244c848c9C",
+        "coverImage": "/images/COTC2.cover.jpg",
+        "network": "AVAX",
+        "maxSupply": 2000
+    },
+    {
+        "name": "Old Blood Of The Cave",
+        "symbol": "OLDBLOOD",
+        "contractAddress": "0xcd05E23d508cF053513475277eB4de9f55f75f35",
+        "coverImage": "/images/OldBloodOfTheCave.cover.jpg",
+        "network": "FTM",
+        "maxSupply": 650,
+        "mint": {
+            "weiCost": 30000000000000000000,
+            "maxPerTx": 10,
+            "mintImage": "/images/OldBloodOfTheCave.gif",
+            "gasLimit": 285000
+        }
+    }
+]
