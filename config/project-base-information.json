@@ -14,7 +14,12 @@
             "/images/projects/cotc/image01.png",
             "/images/projects/cotc/image02.png",
             "/images/projects/cotc/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "creaturesofthecave"
+            }
+        }
     },
     {
         "name": "Potluck Pigs",
@@ -30,7 +35,12 @@
             "/images/projects/potluckpigs/image01.png",
             "/images/projects/potluckpigs/image02.png",
             "/images/projects/potluckpigs/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "potluckpigs"
+            }
+        }
     },
     {
         "name": "Bot Squad Llamas",
@@ -46,7 +56,12 @@
             "/images/projects/botsquadllamas/image01.png",
             "/images/projects/botsquadllamas/image02.png",
             "/images/projects/botsquadllamas/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "botsquadllamas"
+            }
+        }
     },
     {
         "name": "Psychedelic R-Evolution",
@@ -63,7 +78,12 @@
             "/images/projects/psychedelicrevolution/image01.png",
             "/images/projects/psychedelicrevolution/image02.png",
             "/images/projects/psychedelicrevolution/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "psychedelicrevolution"
+            }
+        }
     },
     {
         "name": "Strange Ones",
@@ -79,7 +99,12 @@
             "/images/projects/strangeones/image01.png",
             "/images/projects/strangeones/image02.png",
             "/images/projects/strangeones/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "strangeones"
+            }
+        }
     },
     {
         "name": "Engraved Spirits",
@@ -98,7 +123,12 @@
             "/images/projects/engravedspirits/image01.png",
             "/images/projects/engravedspirits/image02.png",
             "/images/projects/engravedspirits/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "engravedspirits"
+            }
+        }
     },
     {
         "name": "Astrokid",
@@ -116,7 +146,36 @@
             "/images/projects/astrokidftm/image02.png",
             "/images/projects/astrokidftm/image03.png",
             "/images/projects/astrokidftm/image04.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "astrokid"
+            }
+        }
+    },
+    {
+        "name": "Bot Kid Llamas",
+        "symbol": "BKLA",
+        "contractAddress": "0x05C59236d4F0EEB315ed96ee7B411fe5A6F9De13",
+        "coverImage": "/images/projects/botkidllamas/cover.png",
+        "network": "FTM",
+        "artistId": "botboy",
+        "releaseDate": "2022-02-03",
+        "description": [
+            "820 Bot Kid Llamas have arrived on the Fantom Network.",
+            "Bot Kid Llamas were aidropped for the owners of Bot Squad Llamas in ratio of 1:1."
+        ],
+        "maxSupply": 820,
+        "images": [
+            "/images/projects/botkidllamas/image01.png",
+            "/images/projects/botkidllamas/image02.png",
+            "/images/projects/botkidllamas/image03.png"
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "botkidllamas"
+            }
+        }
     },
     {
         "name": "Goddess of the Cave",
@@ -136,13 +195,19 @@
             "/images/projects/goddessofthecave/image01.png",
             "/images/projects/goddessofthecave/image02.png",
             "/images/projects/goddessofthecave/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "goddessofthecave"
+            }
+        }
     },
     {
         "name": "Rat Pack Mafia",
         "symbol": "RPMA",
         "contractAddress": "0x3dd927A8E88ED180249Dffe8FC83d505695D6e15",
         "coverImage": "/images/projects/ratpackmafia/cover.png",
+        "loreAudio": "/images/projects/ratpackmafia/ratpacklore.mp3",
         "network": "AVAX",
         "artistId": "zombiestiltskin",
         "releaseDate": "2022-02-05",
@@ -155,7 +220,12 @@
             "/images/projects/ratpackmafia/image01.png",
             "/images/projects/ratpackmafia/image02.png",
             "/images/projects/ratpackmafia/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "ratpack"
+            }
+        }
     },
     {
         "name": "Potluck Realm Orcs",
@@ -171,7 +241,12 @@
             "/images/projects/potluckrealmorcs/image01.png",
             "/images/projects/potluckrealmorcs/image02.png",
             "/images/projects/potluckrealmorcs/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "potluckrealmorcs"
+            }
+        }
     },
     {
         "name": "Astrokid",
@@ -189,13 +264,19 @@
             "/images/projects/astrokidavax/image02.png",
             "/images/projects/astrokidavax/image03.png",
             "/images/projects/astrokidavax/image04.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "astrokidavax"
+            }
+        }
     },
     {
         "name": "COTC2 Serums",
         "symbol": "COTC2Serum",
         "contractAddress": "0x82913BB5587e42c7307cdA8bACab396c647ac20d",
         "coverImage": "/images/projects/cotc2serumftm/serum.png",
+        "loreAudio": "/images/projects/cotc2/cotc2.mp3",
         "network": "FTM",
         "artistId": "aspenth",
         "releaseDate": "2022-02-16",
@@ -205,6 +286,11 @@
         "images": [
             "/images/projects/cotc2serumftm/serum.png"
         ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "creaturesofthecaveserum"
+            }
+        },
         "mutate": {
             "targetContractAddress": "0xDbD1D1f5E81c39c5b7931A8dFfDB78e260bF288a",
             "approveGasLimit": 75000,
@@ -216,6 +302,7 @@
         "symbol": "COTCTWO",
         "contractAddress": "0xDbD1D1f5E81c39c5b7931A8dFfDB78e260bF288a",
         "coverImage": "/images/projects/cotc2ftm/cover.png",
+        "loreAudio": "/images/projects/cotc2/cotc2.mp3",
         "network": "FTM",
         "artistId": [
             "nimbus",
@@ -229,7 +316,12 @@
             "/images/projects/cotc2ftm/image01.png",
             "/images/projects/cotc2ftm/image02.png",
             "/images/projects/cotc2ftm/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "creaturesofthecave2"
+            }
+        }
     },
     {
         "name": "COTC2 Super Serums",
@@ -245,6 +337,11 @@
         "images": [
             "/images/projects/cotc2superserumftm/serum.png"
         ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "creaturesofthecavesuperserum"
+            }
+        },
         "overrideIpfsGateway": "https://potlucklabs.mypinata.cloud/ipfs/",
         "mutate": {
             "targetContractAddress": "0xBbF352cEa87A49aeF9d5A5dDA16de2240814732a",
@@ -268,7 +365,12 @@
             "/images/projects/deadfamilyftm/image01.png",
             "/images/projects/deadfamilyftm/image02.png",
             "/images/projects/deadfamilyftm/image03.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "deadfamily"
+            }
+        }
     },
     {
         "name": "Dead Family",
@@ -286,6 +388,11 @@
             "/images/projects/deadfamilyavax/image02.png",
             "/images/projects/deadfamilyavax/image03.png"
         ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "deadfamilyavax"
+            }
+        },
         "mint": {
             "weiCost": 800000000000000000,
             "maxPerTx": 10,
@@ -309,7 +416,12 @@
             "/images/projects/astrokidmatic/image02.png",
             "/images/projects/astrokidmatic/image03.png",
             "/images/projects/astrokidmatic/image04.png"
-        ]
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "astrokidmatic"
+            }
+        }
     },
     {
         "name": "Strange Pigs",
@@ -330,6 +442,11 @@
             "/images/projects/strangepigs/image02.png",
             "/images/projects/strangepigs/image03.png"
         ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "strangepigs"
+            }
+        },
         "artistId": "slicedatup",
         "mint": {
             "weiCost": 35000000000000000000,
@@ -343,6 +460,7 @@
         "symbol": "COTC2Serum",
         "contractAddress": "0xE0DDB7865Fc6f9ceDF95Dd9a8826c7CC965d16E3",
         "coverImage": "/images/projects/cotc2serumavax/serum.png",
+        "loreAudio": "/images/projects/cotc2/cotc2.mp3",
         "releaseDate": "2022-03-19",
         "description": "6000 Creatures have been exposed to dangerous serums. No one could have ever imagined this final outcome.",
         "network": "AVAX",
@@ -370,6 +488,7 @@
         "symbol": "COTCTWO",
         "contractAddress": "0x4Cc85D7B4fA064bF609741C822D2D1244c848c9C",
         "coverImage": "/images/projects/cotc2avax/cover.jpg",
+        "loreAudio": "/images/projects/cotc2/cotc2.mp3",
         "network": "AVAX",
         "artistId": [
             "nimbus",
@@ -421,6 +540,7 @@
         "network": "FTM",
         "maxSupply": 650,
         "roadmapImage": "/images/projects/oldblood/roadmap.png",
+        "description": "The Old Blood of the Cave have come to take their rightful spot on their throne, they rule with an iron fist, do they bring peace or do they bring war?",
         "artistId": "mateusz",
         "images": [
             "/images/projects/oldblood/image01.png",
@@ -428,6 +548,11 @@
             "/images/projects/oldblood/image03.png",
             "/images/projects/oldblood/image04.png"
         ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "oldbloodofthecave"
+            }
+        },
         "attributions": [
             {
                 "url": "https://sketchfab.com/3d-models/lobster-3ab14e5ce84141cda62c3405d8086157",
@@ -490,6 +615,58 @@
         }
     },
     {
+        "name": "Super Serum Creatures",
+        "symbol": "PLSS",
+        "contractAddress": "0xBbF352cEa87A49aeF9d5A5dDA16de2240814732a",
+        "coverImage": "/images/projects/cotc2supercreaturesftm/cover.png",
+        "network": "FTM",
+        "artistId": [
+            "nimbus",
+            "hex"
+        ],
+        "releaseDate": "2022-04-02",
+        "description": "200 Creatures have been exposed to dangerous Super Serums. What is this mayhem it has caused??",
+        "maxSupply": 200,
+        "roadmapImage": "/images/projects/cotc2/roadmap.png",
+        "images": [
+            "/images/projects/cotc2supercreaturesftm/image01.png",
+            "/images/projects/cotc2supercreaturesftm/image02.png",
+            "/images/projects/cotc2supercreaturesftm/image03.png",
+            "/images/projects/cotc2supercreaturesftm/image04.png"
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "cotcsscreatures"
+            }
+        }
+    },
+    {
+        "name": "Super Serum Creatures",
+        "symbol": "PLSS",
+        "contractAddress": "0xb22C5f6e91B073ECC321Cfa7C01e1e2b56564ab2",
+        "coverImage": "/images/projects/cotc2supercreaturesavax/cover.png",
+        "network": "AVAX",
+        "artistId": [
+            "nimbus",
+            "hex"
+        ],
+        "releaseDate": "2022-04-02",
+        "description": "100 Creatures have been exposed to dangerous Super Serums. What is this mayhem it has caused??",
+        "maxSupply": 100,
+        "roadmapImage": "/images/projects/cotc2/roadmap.png",
+        "images": [
+            "/images/projects/cotc2supercreaturesavax/image01.png",
+            "/images/projects/cotc2supercreaturesavax/image02.png",
+            "/images/projects/cotc2supercreaturesavax/image03.png",
+            "/images/projects/cotc2supercreaturesavax/image04.png"
+        ],
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "cotcsscreaturesavax"
+            }
+        }
+    },
+    {
         "name": "Revolutionary Apes",
         "symbol": "RVAP",
         "contractAddress": "0xE3763f557933B3396795ad3920Dd7D191359CcEF",
@@ -510,6 +687,9 @@
             "/images/projects/revolutionaryapes/image02.png",
             "/images/projects/revolutionaryapes/image03.png"
         ],
+        "secondaryMarketplace": {
+            "NFTKey": {}
+        },
         "mint": {
             "gasLimit": 285000,
             "maxPerTx": 10,
