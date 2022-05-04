@@ -772,7 +772,7 @@
             "/images/projects/acidcatavax/image04.jpg"
         ],
         "mint": {
-            "gasLimit": 285000,
+            "gasLimit": 350000,
             "maxPerTx": 5,
             "mintImage": "/images/projects/acidcatavax/mint.gif",
             "weiCost": 500000000000000000,
