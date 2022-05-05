@@ -776,7 +776,8 @@
             "maxPerTx": 5,
             "mintImage": "/images/projects/acidcatavax/mint.gif",
             "weiCost": 500000000000000000,
-            "noWhitelist": true
+            "noWhitelist": true,
+            "forceEndedState": true
         }
     },
     {
