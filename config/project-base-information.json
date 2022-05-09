@@ -395,7 +395,7 @@
         },
         "mint": {
             "forceEndedState": true,
-            "weiCost": 800000000000000000,
+            "weiCost": "800000000000000000",
             "maxPerTx": 10,
             "mintImage": "/images/projects/deadfamilyavax/mint.gif",
             "gasLimit": 315000
@@ -450,7 +450,7 @@
         },
         "artistId": "slicedatup",
         "mint": {
-            "weiCost": 35000000000000000000,
+            "weiCost": "35000000000000000000",
             "maxPerTx": 10,
             "mintImage": "/images/projects/strangepigs/strangepigs.mint.gif",
             "gasLimit": 285000
@@ -476,7 +476,7 @@
             "maxPerTx": 10,
             "noWhitelist": true,
             "mintImage": "/images/projects/cotc2serumavax/serum.png",
-            "weiCost": 500000000000000000
+            "weiCost": "500000000000000000"
         },
         "mutate": {
             "targetContractAddress": "0x4Cc85D7B4fA064bF609741C822D2D1244c848c9C",
@@ -522,7 +522,7 @@
             "maxPerTx": 1,
             "noWhitelist": true,
             "mintImage": "/images/projects/cotc2superserumavax/serum.png",
-            "weiCost": 2000000000000000000
+            "weiCost": "2000000000000000000"
         },
         "overrideIpfsGateway": "https://potlucklabs.mypinata.cloud/ipfs/",
         "mutate": {
@@ -609,7 +609,7 @@
             }
         ],
         "mint": {
-            "weiCost": 30000000000000000000,
+            "weiCost": "30000000000000000000",
             "maxPerTx": 10,
             "mintImage": "/images/projects/oldblood/oldblood.mint.gif",
             "gasLimit": 285000
@@ -695,7 +695,7 @@
             "gasLimit": 285000,
             "maxPerTx": 10,
             "mintImage": "/images/projects/revolutionaryapes/mint.gif",
-            "weiCost": 25000000000000000000
+            "weiCost": "25000000000000000000"
         }
     },
     {
@@ -720,7 +720,7 @@
             "gasLimit": 285000,
             "maxPerTx": 5,
             "mintImage": "/images/projects/acidcatftm/mint.gif",
-            "weiCost": 20000000000000000000,
+            "weiCost": "20000000000000000000",
             "forceEndedState": true
         },
         "secondaryMarketplace": {
@@ -750,7 +750,7 @@
             "gasLimit": 285000,
             "maxPerTx": 10,
             "mintImage": "/images/projects/strangegods/mint.gif",
-            "weiCost": 150000000000000000000,
+            "weiCost": "150000000000000000000",
             "noWhitelist": true
         }
     },
@@ -775,7 +775,7 @@
             "gasLimit": 350000,
             "maxPerTx": 5,
             "mintImage": "/images/projects/acidcatavax/mint.gif",
-            "weiCost": 500000000000000000,
+            "weiCost": "500000000000000000",
             "noWhitelist": true,
             "forceEndedState": true
         }
@@ -791,6 +791,7 @@
         "whitelistDate": "2022-05-06T19:00:00.000Z",
         "description": "The first generative collection from accomplished 1/1 cross-chain artist BlackCatDead. Collection features 10 mystery NFTS which entitles the holder to make a customized 1/1.",
         "maxSupply": 444,
+        "loreAudio": "/images/projects/cyberfantomicftm/Cyberfantomic_-_Soul_Lock.mp3",
         "images": [
             "/images/projects/cyberfantomicftm/image01.png",
             "/images/projects/cyberfantomicftm/image02.png",
@@ -801,8 +802,13 @@
             "gasLimit": 350000,
             "maxPerTx": 5,
             "mintImage": "/images/projects/cyberfantomicftm/mint.gif",
-            "weiCost": 30000000000000000000,
+            "weiCost": "30000000000000000000",
             "forceEndedState": true
+        },
+        "secondaryMarketplace": {
+            "NFTKey": {
+                "collectionUrlPart": "cyberfantomic"
+            }
         }
     },
     {
@@ -816,6 +822,7 @@
         "releaseDate": "2022-05-06T20:00:00.000Z",
         "description": "The first generative collection from accomplished 1/1 cross-chain artist BlackCatDead. Collection features 10 mystery NFTS which entitles the holder to make a customized 1/1.",
         "maxSupply": 444,
+        "loreAudio": "/images/projects/cyberfantomicftm/Cyberfantomic_-_Soul_Lock.mp3",
         "externalMintLocation": {
             "name": "Campfire",
             "url": "https://campfire.exchange/collections/0xbdcc8a9461ed33eed78b1943c404471218696629/minting"
@@ -824,6 +831,53 @@
             "/images/projects/cyberfantomicavax/image05.png",
             "/images/projects/cyberfantomicavax/image06.png",
             "/images/projects/cyberfantomicavax/image07.png"
+        ]
+    },
+    {
+        "name": "Hunters Of Evil",
+        "internalId": "internal::ftm::huntersofevil",
+        "symbol": "",
+        "contractAddress": "",
+        "coverImage": "/images/projects/huntersofevil/cover.png",
+        "network": "FTM",
+        "artistId": "danetron",
+        "releaseDate": "2022-05-13T20:00:00.000Z",
+        "whitelistDate": "2022-05-13T19:30:00.000Z",
+        "description": "There’s something strange happening in the small town of Wessgrave. Strange peculiar things. There are monsters feeding on the people. The Hunters are man’s last defense. Fighting back evil is what they do, but for how long? How long can they fight the monstrosities of darkness before they themselves become infected with madness?",
+        "maxSupply": 777,
+        "images": [
+            "/images/projects/huntersofevil/image01.png",
+            "/images/projects/huntersofevil/image02.png",
+            "/images/projects/huntersofevil/image03.png",
+            "/images/projects/huntersofevil/image04.png"
+        ],
+        "mint": {
+            "gasLimit": 350000,
+            "maxPerTx": 10,
+            "mintImage": "/images/projects/huntersofevil/mint.gif",
+            "weiCost": "25000000000000000000"
+        }
+    },
+    {
+        "name": "Hunters Of Evil",
+        "internalId": "internal::avax::huntersofevil",
+        "symbol": "",
+        "contractAddress": "",
+        "coverImage": "/images/projects/huntersofevilavax/cover.png",
+        "network": "AVAX",
+        "artistId": "danetron",
+        "releaseDate": "2022-05-13T20:00:00.000Z",
+        "description": "There’s something strange happening in the small town of Wessgrave. Strange peculiar things. There are monsters feeding on the people. The Hunters are man’s last defense. Fighting back evil is what they do, but for how long? How long can they fight the monstrosities of darkness before they themselves become infected with madness?",
+        "maxSupply": 444,
+        "externalMintLocation": {
+            "name": "Campfire",
+            "url": "https://campfire.exchange"
+        },
+        "images": [
+            "/images/projects/huntersofevilavax/image01.png",
+            "/images/projects/huntersofevilavax/image02.png",
+            "/images/projects/huntersofevilavax/image03.png",
+            "/images/projects/huntersofevilavax/image04.png"
         ]
     }
 ]
