@@ -868,7 +868,7 @@
         "artistId": "danetron",
         "releaseDate": "2022-05-13T20:00:00.000Z",
         "description": "There’s something strange happening in the small town of Wessgrave. Strange peculiar things. There are monsters feeding on the people. The Hunters are man’s last defense. Fighting back evil is what they do, but for how long? How long can they fight the monstrosities of darkness before they themselves become infected with madness?",
-        "maxSupply": 444,
+        "maxSupply": 333,
         "externalMintLocation": {
             "name": "Campfire",
             "url": "https://campfire.exchange"
