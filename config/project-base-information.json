@@ -835,9 +835,8 @@
     },
     {
         "name": "Hunters Of Evil",
-        "internalId": "internal::ftm::huntersofevil",
-        "symbol": "",
-        "contractAddress": "",
+        "symbol": "HOE",
+        "contractAddress": "0xD813DA9995C753145927e25b8ecc18E6bF2b6AE0",
         "coverImage": "/images/projects/huntersofevil/cover.png",
         "network": "FTM",
         "artistId": "danetron",
@@ -860,7 +859,7 @@
     },
     {
         "name": "Hunters Of Evil",
-        "internalId": "internal::avax::huntersofevil",
+        "internalId": "internal::avax::hunters",
         "symbol": "",
         "contractAddress": "",
         "coverImage": "/images/projects/huntersofevilavax/cover.png",
@@ -871,7 +870,7 @@
         "maxSupply": 333,
         "externalMintLocation": {
             "name": "Campfire",
-            "url": "https://campfire.exchange"
+            "url": "https://campfire.exchange/collections/0xc991eb54dea1cc20d5b945aea63ffe69192cb3cf/minting"
         },
         "images": [
             "/images/projects/huntersofevilavax/image01.png",

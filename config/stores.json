@@ -1,6 +1,6 @@
 [
     {
-        "projectContractAddressOrName": "internal::ftm::huntersofevil",
+        "projectContractAddressOrName": "0xD813DA9995C753145927e25b8ecc18E6bF2b6AE0",
         "type": "WHITELIST",
         "priceTokenContractAddress": "0x623d0f6a58e563C8627Da26B567269A18555aa52",
         "priceWei": "500000000000000000000",
