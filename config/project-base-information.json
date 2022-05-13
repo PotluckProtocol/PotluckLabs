@@ -852,7 +852,7 @@
         ],
         "mint": {
             "gasLimit": 350000,
-            "maxPerTx": 10,
+            "maxPerTx": 5,
             "mintImage": "/images/projects/huntersofevil/mint.gif",
             "weiCost": "25000000000000000000"
         }
