@@ -848,7 +848,7 @@
             "/images/projects/huntersofevil/image01.png",
             "/images/projects/huntersofevil/image02.png",
             "/images/projects/huntersofevil/image03.png",
-            "/images/projects/huntersofevil/image04.png",
+            "/images/projects/huntersofevil/image04.png"
         ],
         "mint": {
             "gasLimit": 350000,
