@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.b3064530.css",
+    "main.css": "./static/css/main.c8ace5df.css",
     "main.js": "./static/js/main.e68c1d63.js",
     "static/js/787.64ae0bc3.chunk.js": "./static/js/787.64ae0bc3.chunk.js",
     "static/media/cretype  Artico.otf": "./static/media/cretype  Artico.f6c56602251c9ec49ca9.otf",
@@ -9,12 +9,12 @@
     "static/media/cretype  Artico Medium.otf": "./static/media/cretype  Artico Medium.cc15e3aa4e9e8b0732a2.otf",
     "static/media/cretype  Artico Black.otf": "./static/media/cretype  Artico Black.06f9f45a3d23f3438a95.otf",
     "index.html": "./index.html",
-    "main.b3064530.css.map": "./static/css/main.b3064530.css.map",
+    "main.c8ace5df.css.map": "./static/css/main.c8ace5df.css.map",
     "main.e68c1d63.js.map": "./static/js/main.e68c1d63.js.map",
     "787.64ae0bc3.chunk.js.map": "./static/js/787.64ae0bc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3064530.css",
+    "static/css/main.c8ace5df.css",
     "static/js/main.e68c1d63.js"
   ]
 }
