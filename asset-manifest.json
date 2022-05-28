@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c8ace5df.css",
-    "main.js": "./static/js/main.ab6c8aee.js",
+    "main.css": "./static/css/main.d0c6ebf3.css",
+    "main.js": "./static/js/main.160d01dc.js",
     "static/js/787.64ae0bc3.chunk.js": "./static/js/787.64ae0bc3.chunk.js",
     "static/media/cretype  Artico.otf": "./static/media/cretype  Artico.f6c56602251c9ec49ca9.otf",
     "static/media/cretype  Artico ExtraBold.otf": "./static/media/cretype  Artico ExtraBold.5bd6536cc50a7a09451d.otf",
@@ -9,12 +9,12 @@
     "static/media/cretype  Artico Medium.otf": "./static/media/cretype  Artico Medium.cc15e3aa4e9e8b0732a2.otf",
     "static/media/cretype  Artico Black.otf": "./static/media/cretype  Artico Black.06f9f45a3d23f3438a95.otf",
     "index.html": "./index.html",
-    "main.c8ace5df.css.map": "./static/css/main.c8ace5df.css.map",
-    "main.ab6c8aee.js.map": "./static/js/main.ab6c8aee.js.map",
+    "main.d0c6ebf3.css.map": "./static/css/main.d0c6ebf3.css.map",
+    "main.160d01dc.js.map": "./static/js/main.160d01dc.js.map",
     "787.64ae0bc3.chunk.js.map": "./static/js/787.64ae0bc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8ace5df.css",
-    "static/js/main.ab6c8aee.js"
+    "static/css/main.d0c6ebf3.css",
+    "static/js/main.160d01dc.js"
   ]
 }
