@@ -1026,10 +1026,27 @@
         }
     },
     {
+        "name": "Potluck Platinum Pass",
+        "symbol": "PLPP",
+        "contractAddress": "0x72e514B57C852Ebe6763c35e768D1647e7916AC9",
+        "coverImage": "/images/projects/platpassavax/cover.png",
+        "network": "AVAX",
+        "artistId": "forexus",
+        "releaseDate": "2022-06-02T20:30:00.000Z",
+        "description": "10 Uniquely Designed cards representing historic moments from the history of Potluck Protocol. Each Card gets you a white list for every Potluck Mint. Collect ",
+        "maxSupply": 455,
+        "images": [
+            "/images/projects/platpassavax/cover.png"
+        ],
+        "externalMintLocation": {
+            "name": "Campfire",
+            "url": "https://campfire.exchange/collections/0x72e514B57C852Ebe6763c35e768D1647e7916AC9/minting"
+        }
+    },
+    {
         "name": "Potluck Realm Elves",
-        "internalId": "internal::ftm::elves",
-        "symbol": "",
-        "contractAddress": "",
+        "symbol": "PLEV",
+        "contractAddress": "0x7Cca36B5F8fc47d8bA4CEc8c4004Bd0d7518B3FB",
         "coverImage": "/images/projects/elvesftm/cover.png",
         "network": "FTM",
         "artistId": "mash_ow",
@@ -1043,13 +1060,18 @@
             "/images/projects/elvesftm/image03.png",
             "/images/projects/elvesftm/image04.png",
             "/images/projects/elvesftm/image05.png"
-        ]
+        ],
+        "mint": {
+            "gasLimit": 320000,
+            "maxPerTx": 5,
+            "mintImage": "/images/projects/elvesftm/mint.gif",
+            "weiCost": "30000000000000000000"
+        }
     },
     {
         "name": "Potluck Realm Elves",
-        "internalId": "internal::avax::elves",
-        "symbol": "",
-        "contractAddress": "",
+        "symbol": "PLEV",
+        "contractAddress": "0x01244851d026343C1E660aEbFcDB1af31360f383",
         "coverImage": "/images/projects/elvesavax/image01.png",
         "network": "AVAX",
         "artistId": "mash_ow",
@@ -1065,7 +1087,7 @@
         ],
         "externalMintLocation": {
             "name": "Campfire",
-            "url": "https://campfire.exchange"
+            "url": "https://campfire.exchange/collections/0x01244851d026343C1E660aEbFcDB1af31360f383/minting"
         }
     }
 ]
