@@ -472,7 +472,7 @@
             "/images/projects/cotc2serumavax/serum.png"
         ],
         "mint": {
-            "gasLimit": 285000,
+            "gasLimit": 335000,
             "maxPerTx": 10,
             "noWhitelist": true,
             "mintImage": "/images/projects/cotc2serumavax/serum.png",
@@ -481,7 +481,7 @@
         "mutate": {
             "targetContractAddress": "0x4Cc85D7B4fA064bF609741C822D2D1244c848c9C",
             "approveGasLimit": 75000,
-            "mutetaGasLimit": 285000
+            "mutetaGasLimit": 335000
         }
     },
     {
@@ -518,7 +518,7 @@
             "/images/projects/cotc2superserumavax/serum.png"
         ],
         "mint": {
-            "gasLimit": 285000,
+            "gasLimit": 335000,
             "maxPerTx": 1,
             "noWhitelist": true,
             "mintImage": "/images/projects/cotc2superserumavax/serum.png",
@@ -528,7 +528,7 @@
         "mutate": {
             "targetContractAddress": "0xb22C5f6e91B073ECC321Cfa7C01e1e2b56564ab2",
             "approveGasLimit": 75000,
-            "mutetaGasLimit": 285000,
+            "mutetaGasLimit": 335000,
             "serumUnitNotation": "Super Serum"
         }
     },
