@@ -1468,7 +1468,8 @@
             "gasLimit": 450000,
             "maxPerTx": 5,
             "mintImage": "/images/projects/cosmicfrens/mint.gif",
-            "weiCost": "30000000000000000000"
+            "weiCost": "30000000000000000000",
+            "forceEndedState": true
         }
     },
     {
@@ -1495,7 +1496,8 @@
             "gasLimit": 450000,
             "maxPerTx": 5,
             "mintImage": "/images/projects/cosmicfrens/mint.gif",
-            "weiCost": "450000000000000000"
+            "weiCost": "450000000000000000",
+            "forceEndedState": true
         }
     }
 ]
